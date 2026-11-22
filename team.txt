@@ -1,4 +1,4 @@
 project: oss-hw2-1344
 owner: kimsan
-status: main-kimsan
+status: merged-1344 by kimsan
 
