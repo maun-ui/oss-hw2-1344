@@ -1,4 +1,4 @@
 project: oss-hw2-1344
 owner: kimsan
-status: draft
+status: feature-1344 
 
